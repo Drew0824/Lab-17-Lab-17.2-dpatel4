@@ -1,0 +1,2 @@
+## Half function
+Fill in the code as indicated in the main function to pass the input variable number to the half function and assign its return value to the variable result. Verify it works as expected.
